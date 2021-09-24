@@ -1,5 +1,7 @@
 # simonGame
-Game rules
+The Simon Game is a project I did when I was attending the Complete Web development Bootcamp on Udemy.
+
+A fellow student, named as Ninoslav, explained following game rules:
 
 1. At the start, Simon's game will randomly give you a signal ( one color will pop up).
 
